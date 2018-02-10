@@ -22,4 +22,4 @@ class Solution {
         
         return ((leftHt == 0 || rightHt == 0) ? leftHt + rightHt + 1 : Math.min(leftHt, rightHt) + 1);
     }
-}
+}	
